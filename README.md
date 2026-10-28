@@ -35,7 +35,7 @@
   <a href="https://ma-hc-dev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Web&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="https://discord.gg/C4QzaPaDdT" target="_blank">
+  <a href="https://discord.gg/w9xp6vgFzj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:mlsplatoon3@gmail.com" target="_blank">
